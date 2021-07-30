@@ -1,0 +1,2 @@
+# Remove clouds from drawing
+ 
